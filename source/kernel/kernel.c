@@ -12,6 +12,7 @@
 #include <limine.h>
 #include <strings.h>
 #include <hal.h>
+#include <idt.h>
 
 // Limine terminal 
 static volatile struct limine_terminal_request terminal_request = {
