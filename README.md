@@ -15,4 +15,5 @@ Done! now you have the bootable .iso file you can use qemu or Virtual box
 
 # Virtual Box settings
 UEFI - OFF
+
 OS TYPE - Other/Unkown 64-bit
