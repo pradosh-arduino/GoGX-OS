@@ -1,0 +1,6 @@
+GoGX_OS.iso
+*.d
+*.o
+iso_root/*
+.vscode
+limine/*
