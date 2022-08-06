@@ -12,8 +12,8 @@
 
 #include <stdarg.h>
 #include <stddef.h>
+#include <colors.h>
 
 extern void (*limine_print)(const char *buf, size_t size);
 
-void print(char msg[]);
-void printchr(char msg);
+void print(char msg[], ...);
