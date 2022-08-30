@@ -15,6 +15,7 @@
 #include <keyboard.h>
 #include <memory.h>
 #include <e9print.h>
+#include <idt.>
 
 // Limine terminal 
 static volatile struct limine_terminal_request terminal_request = {
