@@ -5,3 +5,4 @@ iso_root/*
 .vscode
 limine/*
 limine/
+source/*.elf
